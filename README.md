@@ -31,7 +31,7 @@
 
 <div align="center">
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=s0k0lVlad&show_icons=true&theme=radical)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=s0k0lVlad)](https://github.com/s0k0lVlad/github-readme-stats)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=s0k0lVlad&layout=compact&theme=radical)
 
