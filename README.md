@@ -32,6 +32,7 @@
 <div align="center">
 
 ![Stepik C++](https://stepik.org/certificate/56847697cabed0f816ff324545a5707a563a5734.png?resolution=high)
+![Stepik C++](https://stepik.org/certificate/75e6cbb4f7ba1ccf5af1b8a93d3fd22c6b06c969.png?resolution=high)
 
 </div>
 
