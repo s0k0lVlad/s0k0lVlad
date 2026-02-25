@@ -32,7 +32,6 @@
 <div align="center">
 
 [![Stepik C++](https://img.shields.io/badge/Stepik-C++_Advanced-4B8BBE?style=for-the-badge&logo=stepik&logoColor=white)](https://stepik.org/cert/3069531)
-[![Stepik C++](https://img.shields.io/badge/Stepik-C++_Базовый-00A86B?style=for-the-badge&logo=stepik&logoColor=white)](https://stepik.org/cert/ваша-ссылка)
 
 </div>
 
