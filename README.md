@@ -27,6 +27,15 @@
 
 </div>
 
+## 📜 Мои достижения
+
+<div align="center">
+
+[![Stepik C++](https://img.shields.io/badge/Stepik-C++_Advanced-4B8BBE?style=for-the-badge&logo=stepik&logoColor=white)](https://stepik.org/cert/3069531)
+[![Stepik C++](https://img.shields.io/badge/Stepik-C++_Базовый-00A86B?style=for-the-badge&logo=stepik&logoColor=white)](https://stepik.org/cert/ваша-ссылка)
+
+</div>
+
 ## 📊 Статистика GitHub
 
 <div align="center">
@@ -40,8 +49,7 @@
 ## 📫 Контакты и ссылки
 
 - **Email:** [vparhomei@yandex.ru](mailto:vparhomei@yandex.ru)  <!-- замените на свой email -->
-- **Telegram:** [@otVxk](https://t.me/otVxk)  <!-- замените на свой Telegram -->
-- **LinkedIn:** [linkedin.com/in/s0k0lvlad](https://linkedin.com/in/s0k0lvlad)  <!-- замените на свой профиль -->
+- **Telegram:** [@otVxk](https://t.me/otVxk)  <!-- замените на свой Telegram --> <!-- замените на свой профиль -->
 - **Вк** [https://vk.com/ycoul](https://vk.com/ycoul)  <!-- если есть -->
 
 ---
