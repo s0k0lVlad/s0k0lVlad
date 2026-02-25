@@ -33,7 +33,7 @@
 
 ![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=s0k0lVlad&show_icons=true&theme=gruvbox)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=s0k0lVlad&layout=compact&theme=radical)
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/streak?username=s0k0lVlad&theme=radical)
 
 </div>
 
